@@ -120,6 +120,8 @@ opportunity evaluation and internal workforce development.
 OppInt is not a chatbot or a summarizer. It is a decision-support system.
 Every output is actionable — a score, a checklist, a plan, a recommendation.
 
+Live Demo: [OppInt](https://opp-int-production.up.railway.app/)
+
 ---
 
 ## Tech Stack
